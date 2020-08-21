@@ -72,3 +72,6 @@ let b = result {
         yield c + i
 }
 ```
+## Usage
+
+Just copy the file into your Project, or use [Pakets GitHub dependency feature](https://fsprojects.github.io/Paket/github-dependencies.html) and `open FSharp.Control.Results`.
