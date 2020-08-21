@@ -43,7 +43,7 @@ If there is at least one `Error` value, you get an `Error` of a list of all enco
 For example:
 
 ```fs
-let cs : Result<int, string> = [
+let cs : Result<int, string> list = [
     Ok 1
     Ok 2
     Ok 3
